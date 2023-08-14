@@ -10,6 +10,12 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
+h2{
+  font-size: 2rem;
+  color: aqua;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 2.8px 0 #c517c5;
+}
 
 footer {
   color: #DBEDF3;
