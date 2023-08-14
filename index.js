@@ -2,9 +2,9 @@
 
  for ( var  i=0 ;i<numofbuttons;i++){
     document.querySelectorAll(".drum")[i].addEventListener("click" , function(){
-        var buttoninnerhtml = this.innerHTML
+        var buttonInnerHTML = this.innerHTML
 
-        makesound(buttoninnerhtml);
+        makesound(buttonInnerHTML);
      
 });
 
